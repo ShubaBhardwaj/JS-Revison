@@ -1,0 +1,1 @@
+console.log("Day 1 of challenge: Setting up the environment in local machine for JavaScript");
