@@ -1,0 +1,1 @@
+console.log("Day_2 of master JI challange DONE: Save and work on Github for JavaScript")
